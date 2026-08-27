@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/dilusha-rajapaksha-a265213b1) •
+[Portfolio](https://your-portfolio.com) •
+[Kaggle](https://www.kaggle.com/yourusername)
 -->
