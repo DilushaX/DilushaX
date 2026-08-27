@@ -1,21 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DilushaX/DilushaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dilusha Rajapaksha
 
-Here are some ideas to get you started:
+### Data Science Undergraduate | Full-Stack Developer | AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### Connect with me
+> Turning data into meaningful insights and building intelligent digital solutions.
 
-[LinkedIn](https://www.linkedin.com/in/dilusha-rajapaksha-a265213b1) •
-[Portfolio](https://your-portfolio.com) •
-[Kaggle](https://www.kaggle.com/yourusername)
--->
+---
+
+## 👨‍💻 About Me
+
+I am a Data Science undergraduate with a strong interest in Data Analytics, Machine Learning, Artificial Intelligence, and Full-Stack Development.
+
+I enjoy working with real-world data, discovering meaningful patterns, developing predictive models, and building software solutions that solve practical problems.
+
+- 🎓 Data Science Undergraduate
+- 📊 Data Analytics & Data Visualization
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Development
+- 🗄️ Database Development
+- 🔍 Problem Solving & Analytical Thinking
+- 🚀 Always learning and exploring new technologies
+- 🇱🇰 Sri Lanka
+
+---
